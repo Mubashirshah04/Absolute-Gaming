@@ -111,7 +111,7 @@ export const DESKTOP_SYSTEMS: ProductItem[] = [
     ],
     idealFor: 'CS2, Valorant, Warzone, Apex Legends & Fortnite at high refresh rates.',
     condition: 'Available in Both',
-    image: '/src/assets/images/showcase_performance_rig_1790422324103.jpg',
+    image: '/images/showcase_performance_rig.jpg',
     inquiryMessage: 'Assalam o Alaikum, I would like to inquire about the Performance Tier Gaming PC setup and current configuration options in Quetta.',
   },
   {
@@ -127,7 +127,7 @@ export const DESKTOP_SYSTEMS: ProductItem[] = [
     ],
     idealFor: 'Cyberpunk 2077, GTA V mods, Blender rendering, and video editing.',
     condition: 'Available in Both',
-    image: '/src/assets/images/hero_gaming_hardware_1790422310600.jpg',
+    image: '/images/hero_gaming_hardware.jpg',
     inquiryMessage: 'Assalam o Alaikum, I would like to ask about the Gaming & Production Tier PC setup at Absolute Gaming PC & Laptops.',
   },
   {
@@ -143,7 +143,7 @@ export const DESKTOP_SYSTEMS: ProductItem[] = [
     ],
     idealFor: 'Simulators, competitive esports professionals, and maximum visual fidelity.',
     condition: 'Brand New',
-    image: '/src/assets/images/showcase_cooling_power_1790422362491.jpg',
+    image: '/images/showcase_cooling_power.jpg',
     inquiryMessage: 'Assalam o Alaikum, I am looking for a custom flagship enthusiast gaming PC build. What are the current premium configurations available?',
   }
 ];
@@ -162,7 +162,7 @@ export const LAPTOP_SYSTEMS: ProductItem[] = [
     ],
     idealFor: 'Competitive mobile gaming, university campus engineering, and high-performance portability.',
     condition: 'Available in Both',
-    image: '/src/assets/images/showcase_stealth_laptop_1790422338806.jpg',
+    image: '/images/showcase_stealth_laptop.jpg',
     inquiryMessage: 'Assalam o Alaikum, I would like to inquire about available high-performance gaming laptops in stock at your Quetta shop.',
   },
   {
@@ -178,7 +178,7 @@ export const LAPTOP_SYSTEMS: ProductItem[] = [
     ],
     idealFor: 'Graphic designers, architectural 3D visualizers, video editors & gamers.',
     condition: 'Available in Both',
-    image: '/src/assets/images/showcase_stealth_laptop_1790422338806.jpg',
+    image: '/images/showcase_stealth_laptop.jpg',
     inquiryMessage: 'Assalam o Alaikum, please share details and available models for creator/gaming laptops at Absolute Gaming Quetta.',
   }
 ];

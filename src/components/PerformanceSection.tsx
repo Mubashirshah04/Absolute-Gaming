@@ -12,7 +12,7 @@ export const PerformanceSection: React.FC = () => {
             <div className="relative rounded-2xl overflow-hidden border border-white/10 bg-[#0e111a] shadow-2xl">
               <div className="relative aspect-[4/3] overflow-hidden">
                 <img
-                  src="/src/assets/images/showcase_cooling_power_1790422362491.jpg"
+                  src="/images/showcase_cooling_power.jpg"
                   alt="High performance PC cooling hardware, dark heat pipes, finned radiator, precision fan blades"
                   className="w-full h-full object-cover object-center"
                   loading="lazy"

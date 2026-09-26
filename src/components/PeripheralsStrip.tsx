@@ -25,7 +25,7 @@ export const PeripheralsStrip: React.FC = () => {
         <div className="mb-10 rounded-2xl overflow-hidden border border-white/10 bg-[#0e111a] relative group">
           <div className="relative aspect-[21/9] sm:aspect-[24/9] overflow-hidden min-h-[200px]">
             <img
-              src="/src/assets/images/showcase_peripherals_gear_1790422351383.jpg"
+              src="/images/showcase_peripherals_gear.jpg"
               alt="High-end mechanical gaming keyboard, wireless mouse, and studio headset arranged on clean dark desk surface"
               className="w-full h-full object-cover object-center group-hover:scale-102 transition-transform duration-500"
               loading="lazy"

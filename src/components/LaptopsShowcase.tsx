@@ -28,7 +28,7 @@ export const LaptopsShowcase: React.FC = () => {
             {/* Visual Container */}
             <div className="relative aspect-[16/10] bg-[#0c0e14] overflow-hidden">
               <img
-                src="/src/assets/images/showcase_stealth_laptop_1790422338806.jpg"
+                src="/images/showcase_stealth_laptop.jpg"
                 alt="High-end slim gaming laptop open on dark slate surface showing precision keyboard and vibrant display"
                 className="w-full h-full object-cover object-center hover:scale-102 transition-transform duration-500"
                 loading="lazy"

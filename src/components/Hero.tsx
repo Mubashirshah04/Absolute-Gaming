@@ -134,7 +134,7 @@ export const Hero: React.FC = () => {
                 }}
               >
                 <img
-                  src="/src/assets/images/hero_gaming_hardware_1790422310600.jpg"
+                  src="/images/hero_gaming_hardware.jpg"
                   alt="High-performance custom gaming desktop PC and slim gaming laptop in commercial studio lighting"
                   className="w-full h-full object-cover object-center scale-[1.04] select-none pointer-events-none"
                   loading="eager"
